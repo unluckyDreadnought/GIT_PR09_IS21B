@@ -1,15 +1,15 @@
-#Практическая работа 09
+# Практическая работа 09
 
-##Перебазирование
+## Перебазирование
 ____
-###Задание 0
+### Задание 0
 
 Склонировать репозиторий
 ```
 $git clone https://github.com/userzamt/megasupersite.git
 ```
 ____
-###Задание 1
+### Задание 1
 
 Добавить блок с описанием пиццы и кнопкой "Заказать". Сделать коммит.
 
@@ -20,7 +20,7 @@ $ git commit -a -m 'Add Neapolitan pizza'
 ```
 
 ____
-###Задание 2
+### Задание 2
 
 Добавить блок с описанием пиццы без кнопки. Сделать коммит.
 
@@ -29,7 +29,7 @@ $ git commit -a -m 'Add pizza al Padellino'
 ```
 
 ____
-###Задание 3
+### Задание 3
 
 ```
 $git switch master
@@ -41,7 +41,7 @@ $ git commit -a -m 'Add order button for the second block about another type of 
 ```
 
 ____
-###Задание 4
+### Задание 4
 ```
 $git checkout -b hotfix
 ```
@@ -63,7 +63,7 @@ Fast-forward
 ```
 
 ----
-###Задание 5
+### Задание 5
 
 ```
 $ git checkout dev
@@ -76,7 +76,7 @@ $ git commit -a -m 'Change the title, uncomment line of code for adding a logo'
 ```
 
 ----
-###Задание 6
+### Задание 6
 
 Произведите перебазирование ветки *dev* **относительно *master***
 
@@ -85,7 +85,7 @@ $ git rebase master
 ```
 
 ----
-###Задание 7
+### Задание 7
 
 <неразборчиво>
 
@@ -94,7 +94,7 @@ https://github.com/GnuriaN/format-README
 ```
 
 ----
-###Задание 8
+### Задание 8
 
 Создать репозиторий на любой из хостинг платформ для размещения проектов.
 
